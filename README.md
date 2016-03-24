@@ -16,7 +16,9 @@ A intensão é movimentar a galera e juntar pessoas com o mesmo objetivo.
 
 ## O que vamos treinar?
 
-Front End, Back End, Android, IO's, Nodejs, Python, Pentest, C, C++, Java, qualquer coisa que de para fazer juntando uma turma e fazendo alguma coisa juntos.
+Front End, Back End, Android, IO's, Nodejs, Python, Pentest, C, C++, Java, qualquer coisa que de para fazer juntando uma turma e fazendo alguma coisa juntos remotamente.
+
+Se tiver uma galera para estudar juntos localmente em algum espaço em sua cidade, sem problemas. Cada grupo pode se organizar como quiserem.
 
 ## Como os grupos podem se comunicar? 
 
