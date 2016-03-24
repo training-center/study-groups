@@ -8,7 +8,7 @@ Aqui podemos fazer qualquer coisa e todos podem participar.
 
 ## O que é?
 
-Uma iniciativa para juntar membros das comunidades que precisam estudar ou praticar algum skill e treinar juntos.
+Uma iniciativa para juntar membros das comunidades que precisam estudar ou praticar algum skill e treinarem juntos.
 
 Os grupos podem tanto fazer grupos de estudos para aprenderem uma tecnologia juntos, quanto fazer um projeto qualquer para treinar uma habilidade.
 
