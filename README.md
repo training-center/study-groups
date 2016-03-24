@@ -12,7 +12,7 @@ Uma iniciativa para juntar membros das comunidades que precisam estudar ou prati
 
 Os grupos podem tanto fazer grupos de estudos para aprenderem uma tecnologia juntos, quanto fazer um projeto qualquer para treinar uma habilidade.
 
-A intensão é movimentar a galera e juntar pessoas com o mesmo objetivo.
+A intenção é movimentar a galera e juntar pessoas com o mesmo objetivo.
 
 ## O que vamos treinar?
 
