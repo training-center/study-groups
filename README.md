@@ -64,6 +64,12 @@ Esse repositório é somente para formar os grupos e expor os projetos/materiais
 
 Já temos muito conteúdo na Web para tirar dúvidas. Só precisamos mesmo de pessoas com o mesmo objetivo que nós para termos mais gás para estudar. :)
 
+## Os grupos tem líderes?
+
+Só depende da pessoa que abriu a Issue.
+
+Essa pessoa pode liderar o grupo ou mesmo passar a bola pra alguém que curtir gerenciar e essa pessoa pode cobrar os outros.
+
 ## Quero ajudar
 
 Se você quiser apoiar esse projeto com dicas para melhoria dos processos ou mesmo ajudando a galera a desenroscar alguma tarefa que estiverem travados, basta falar através das issues ou ajudar a corrigir os erros em PR's.
