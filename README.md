@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./images/ct.png" style="max-width:100%;"/>
+</p>
+
 # Centro de treinamento
 
 **Projeto voltado, principalmente, para iniciantes**
