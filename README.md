@@ -40,7 +40,7 @@ Vamos juntar uma galerinha de, pelo menos, 5 pessoas por grupo e tacar pau.
 
 Os grupos devem se organizar entre eles para combinar horários de estudos, conteúdo, nome do grupo, etc.
 
-Os membros devem nomear seu grupo e abrirem uma issue com o nome que escolheram para postar lá como estão fazendo as coisas, tirarem dúvidas, conversarem entre sí. Isso vai ajudar para acompanharmos o andamento dos estudos e para que futuros grupos se espelhem no que já está dando certo.
+Os membros devem nomear seu grupo e abrirem uma issue com o nome que escolheram para postar lá como estão fazendo as coisas, tirarem dúvidas, conversarem entre sí, etc. Isso vai ajudar para acompanharmos o andamento dos estudos e para que futuros grupos se espelhem no que já está dando certo.
 
 *Caso algum grupo planeje algo bem legal, os outros grupos podem copiar sua forma de se organizar. ;)*
 
