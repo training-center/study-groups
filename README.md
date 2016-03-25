@@ -66,7 +66,7 @@ A cada grupo fechado, abrimos uma nova issue para montar outros.
 
 A própria comunidade pode tirar suas dúvidas, basta pesquisar no nosso forum: [http://google.com](http://google.com) ou pesquisar nas comunidades existentes.
 
-A intensão é fazer o iniciante se movimentar, não seria legal prender a galera aqui nesse repositório.
+A intenção é fazer o iniciante se movimentar, não seria legal prender a galera aqui nesse repositório.
 
 Esse repositório é somente para formar os grupos e expor os projetos/materiais que a galera produzir.
 
