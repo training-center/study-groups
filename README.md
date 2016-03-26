@@ -64,6 +64,8 @@ Dependendo do projeto que quiserem criar podemos juntar outros grupos para fazer
 
 *Ex.:* Juntar a galera de Front para montar o Client Side, galera de Back para fazer as API's, galera de Mobile para criar App's consumindo essas API's.
 
+**OBS: Evite deixar seu número de telefone ou informações muito pessoais nas issues por questões de segurança.**
+
 ## Você quer participar?
 
 Basta entrar ou criar um time!
