@@ -1,4 +1,4 @@
-# Material de apoio aos grupos
+# Material de apoio aos grupos [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [`git-github`](#gitgithub)
 [`dicas-gerais`](#dicas)
