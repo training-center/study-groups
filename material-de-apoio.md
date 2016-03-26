@@ -3,6 +3,15 @@
 [`git-github`](#gitgithub)
 [`dicas-gerais`](#dicas)
 [`livros`](#livros)
+[`APIS`](#APIS)
+
+## Ideias para aplicativos
+
+* [AppIdeas](https://github.com/teles/awesome-ideas/issues)
+
+## APIS
+
+* [Programmable Web](http://www.programmableweb.com/apis/directory)
 
 ## Git/GitHub
 
