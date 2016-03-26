@@ -1,6 +1,7 @@
 # Material de apoio aos grupos
 
-[git-github](#git-github) [dicas-gerais](#dicas)
+[`git-github`](#gitgithub)
+[`dicas-gerais`](#dicas)
 
 ## Git/GitHub
 
