@@ -2,6 +2,7 @@
 
 [`git-github`](#gitgithub)
 [`dicas-gerais`](#dicas)
+[`livros`](#livros)
 
 ## Git/GitHub
 
