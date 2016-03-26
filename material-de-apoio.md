@@ -13,3 +13,7 @@
 ## Dicas
 
 * [Como alcançar objetivos rapidamente nos estudos (Sem ficar louco)](http://woliveiras.com.br/posts/como-alcancar-objetivos-rapidamente-nos-estudos/)
+
+## Livros
+
+* [Livros gratuitos sobre programação](https://github.com/vhf/free-programming-books)
