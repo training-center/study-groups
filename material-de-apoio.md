@@ -4,7 +4,7 @@
 [`dicas-gerais`](#dicas)
 [`livros`](#livros)
 [`APIS`](#APIS)
-[`ferramentas-uteis`](#ferramentas-uteis)
+[`ferramentas-úteis`](#ferramentas-úteis)
 
 ## Ideias para aplicativos
 
