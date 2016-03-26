@@ -4,6 +4,7 @@
 [`dicas-gerais`](#dicas)
 [`livros`](#livros)
 [`APIS`](#APIS)
+[`ferramentas-uteis`](#ferramentas-uteis)
 
 ## Ideias para aplicativos
 
@@ -12,6 +13,10 @@
 ## APIS
 
 * [Programmable Web](http://www.programmableweb.com/apis/directory)
+
+## Ferramentas úteis
+
+* [Gestão de projetos com Trello](https://trello.com/)
 
 ## Git/GitHub
 
