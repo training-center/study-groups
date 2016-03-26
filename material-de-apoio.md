@@ -3,7 +3,7 @@
 [`git-github`](#gitgithub)
 [`dicas-gerais`](#dicas)
 [`livros`](#livros)
-[`APIS`](#APIS)
+[`APIS`](#apis)
 [`ferramentas-úteis`](#ferramentas-úteis)
 
 ## Ideias para aplicativos
