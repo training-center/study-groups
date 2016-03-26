@@ -92,6 +92,10 @@ Essa pessoa pode liderar o grupo ou mesmo passar a bola pra alguém que curtir g
 
 Se você quiser apoiar esse projeto com dicas para melhoria dos processos ou mesmo ajudando a galera a desenroscar alguma tarefa que estiverem travados, basta falar através das issues ou ajudar a corrigir os erros em PR's.
 
+## Não manjo nada de Git/GitHub
+
+Chega [aqui](./material-de-apoio.md). ;D
+
 ---
 
 Todo conhecimento deveria ser compartilhado.
