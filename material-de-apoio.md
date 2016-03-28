@@ -8,7 +8,7 @@
 
 ## Ideias para aplicativos
 
-* [AppIdeas](https://github.com/teles/awesome-ideas/issues)
+* [Awesome Ideas](https://github.com/teles/awesome-ideas/blob/master/rascunho.md)
 
 ## APIS
 
