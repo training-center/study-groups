@@ -24,6 +24,7 @@
 * [Contribuindo para projetos Open Source no Github mesmo sendo iniciante](http://woliveiras.com.br/posts/contribuindo-para-projetos-open-source-no-github-mesmo-sendo-iniciante/)
 * [Git e Github para iniciantes](https://www.youtube.com/watch?v=UMhskLXJuq4)
 * [Coisas importantes na hora de criar um projeto Open Source no Github](http://afonsopacifer.github.io/open-source-checklist/pt-br.html)
+* [Guia com seleção de comandos para o trabalho com Git e GitHub](https://github.com/theandersonn/comandos-git)
 
 ## Dicas
 
