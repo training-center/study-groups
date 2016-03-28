@@ -2,7 +2,7 @@
   <img src="./images/ct.png" style="max-width:100%;"/>
 </p>
 
-# Centro de treinamento
+# Centro de treinamento [![Slack Status](https://ctgroups.herokuapp.com/badge.svg)](https://ctgroups.herokuapp.com/)
 
 **Projeto voltado, principalmente, para iniciantes**
 
