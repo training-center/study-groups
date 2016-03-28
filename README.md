@@ -32,7 +32,7 @@ Cada grupo pode se organizar como acharem melhor.
 
 ## Como os grupos podem se comunicar? 
 
-Temos um Time no Slack e você pode entrar por aqui.
+Temos um Time no Slack e você pode entrar por [aqui](https://ctgroups.herokuapp.com/).
 
 Caso o grupo queira fazer algo separado, não tem problema.
 
