@@ -32,9 +32,13 @@ Cada grupo pode se organizar como acharem melhor.
 
 ## Como os grupos podem se comunicar? 
 
-Através de algum programa de chat que o próprio grupo de estudos vai definir ou via issues nesse repositório.
+Temos um Time no Slack e você pode entrar por aqui.
 
-Os grupos podem criar times no Slack, grupos no Facebook, qualquer coisa que sirva para se comunicarem.
+Caso o grupo queira fazer algo separado, não tem problema.
+
+Todos os grupos devem ter canais próprios, somente para os membros dos times, dentro desse Time no Slack.
+
+Os grupos podem criar foruns no Facebook, aqui, ou em qualquer lugar que sirva para se comunicarem.
 
 ## Como funcionam os grupos
 
