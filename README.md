@@ -2,7 +2,7 @@
   <img src="./images/ct.png" style="max-width:100%;"/>
 </p>
 
-# Centro de treinamento [![Slack Status](https://ctgroups.herokuapp.com/badge.svg)](https://ctgroups.herokuapp.com/)
+# Centro de treinamento   <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack"><img src="/images/Slack.png" alt="Acesse nosso Slack" width="50px"></a>
 
 **Projeto voltado, principalmente, para iniciantes**
 
