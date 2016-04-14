@@ -88,6 +88,10 @@ Esse repositório é somente para formar os grupos e expor os projetos/materiais
 
 Já temos muito conteúdo na Web para tirar dúvidas. Só precisamos mesmo de pessoas com o mesmo objetivo que nós para termos mais gás para estudar. :)
 
+Não se esqueça de passar feedback de como estão indo seus grupos para a galera da organização, essas pessoas [aqui](https://github.com/orgs/training-center/teams/study-groups).
+
+Caso deseje chamar todos eles em uma issue basta usar: `@training-center/study-groups`.
+
 ## Os grupos tem líderes?
 
 Só depende da pessoa que abriu a Issue.
