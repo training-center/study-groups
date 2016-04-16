@@ -52,7 +52,7 @@ Vamos juntar uma galerinha de, pelo menos, 5 pessoas por grupo e tacar pau, assi
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="245px" alt="Gato digitando loucamente">
 </p>
 
-Os grupos devem se organizar entre eles para combinar horários de estudos, conteúdo, nome do grupo, etc.
+Os grupos devem se organizar **entre eles** para combinar horários de estudos, conteúdo, nome do grupo, etc.
 
 Os membros devem nomear seu grupo e abrirem uma issue com o nome que escolheram para postar lá como estão fazendo as coisas, tirarem dúvidas, conversarem entre sí, etc.
 
@@ -60,7 +60,9 @@ Isso vai ajudar para acompanharmos o andamento dos estudos e para que futuros gr
 
 *Caso algum grupo planeje algo bem legal, os outros podem copiar sua forma de se organizar. ;)*
 
-**Dica:** Uma boa maneira de estudar é: Cada semana um membro do grupo de estudos junta o máximo de informações sobre um assunto e transmite para a galera.
+**Dica** 
+
+**Uma boa maneira de estudar é:** Cada semana um membro do grupo de estudos junta o máximo de informações sobre um assunto e transmite para a galera.
 
 Alguns materiais de estudo podem ser encontrados [aqui](./material-de-apoio.md).
 
@@ -82,9 +84,9 @@ A cada grupo fechado, abrimos uma nova issue para montar outros.
 
 A própria comunidade pode tirar suas dúvidas, basta pesquisar no nosso forum, o [google.com](http://google.com), ou pesquisar nas comunidades existentes.
 
-A intenção é fazer o iniciante se movimentar, não seria legal prender a galera aqui nesse repositório.
+**A intenção é fazer o iniciante se movimentar, experimentar, aprender**, não seria legal prender a galera aqui nesse repositório.
 
-Esse repositório é somente para formar os grupos e expor os projetos/materiais que a galera produzir.
+**Esse repositório é somente para formar os grupos e expor os projetos/materiais que a galera produzir.**
 
 Já temos muito conteúdo na Web para tirar dúvidas. Só precisamos mesmo de pessoas com o mesmo objetivo que nós para termos mais gás para estudar. :)
 
@@ -94,9 +96,11 @@ Caso deseje chamar todos eles em uma issue basta usar: `@training-center/study-g
 
 ## Os grupos tem líderes?
 
-Só depende da pessoa que abriu a Issue.
+Só depende do grupo.
 
-Essa pessoa pode liderar o grupo ou mesmo passar a bola pra alguém que curtir gerenciar e essa pessoa pode cobrar os outros.
+Vocês podem decidir ter um líder, mas não é necessário que isso aconteça. Vocês podem ser auto-gerenciáveis e só precisam combinar materiais de estudos, buscarem boas fontes, até mesmo perguntar no Slack geral se alguém já está pegando algo pra estudar pra terem uma noção do que fazer, mas não é bom que dependam de um líder.
+
+A intenção é que vocês explorem mais! Liberte seu cientista interior!
 
 ## Quero ajudar
 
