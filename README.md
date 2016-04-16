@@ -106,6 +106,22 @@ Se você quiser apoiar esse projeto com dicas para melhoria dos processos ou mes
 
 Chega [aqui](./material-de-apoio.md). ;D
 
+## Caso os grupos precisem de um direcionamento
+
+Se você está em um grupo e estão perdidos de por onde começar a estudar, temos um repositório com os níveis e materiais divididos por tópicos: https://github.com/training-center/materials/
+
+Use e abuse desse material.
+
+Atualize sempre que achar algo importante para colocar lá.
+
+**Caso algum membro suma**
+
+Não fique sem estudar por isso. Convide outro membro ou libere a vaga no grupo e divulgue a issue.
+
+**Já aprendi de tudo e agora quero partir pro mercado de trabalho**
+
+Talvez você queira saber mais sobre mercado de trabalho com uma pessoa mais experiênte e para isso temos o projeto [Mentoria](https://github.com/training-center/mentoria).
+
 ---
 
 Todo conhecimento deveria ser compartilhado.
