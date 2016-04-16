@@ -122,6 +122,10 @@ Atualize sempre que achar algo importante para colocar lá.
 
 Não fique sem estudar por isso. Convide outro membro ou libere a vaga no grupo e divulgue a issue.
 
+**Caso o grupo esteja perdido nos estudos**
+
+A intenção é que descubram tudo por conta própria, mas, caso esteja complicado, podem chamar no canal #general do Slack que os membros mais experiêntes tentam auxiliar a bolar um plano de estudos.
+
 **Já aprendi de tudo e agora quero partir pro mercado de trabalho**
 
 Talvez você queira saber mais sobre mercado de trabalho com uma pessoa mais experiênte e para isso temos o projeto [Mentoria](https://github.com/training-center/mentoria).
