@@ -51,7 +51,7 @@ Depois movimentamos nas comunidades para juntar a galera interessada. - Pode ser
 Vamos juntar uma galerinha de, pelo menos, 5 pessoas por grupo e tacar pau, assim oh:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="245px" alt="Gato digitando loucamente">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="245px" alt="Gato digitando loucamente" title="Gato digitando loucamente">
 </p>
 
 Os grupos devem se organizar **entre eles** para combinar horários de estudos, conteúdo, nome do grupo, etc.
