@@ -48,17 +48,7 @@ Qualquer um que quiser começar um grupo, pode abrir uma Issue e discutirmos sob
 
 Depois movimentamos nas comunidades para juntar a galera interessada. - Pode ser compartilhando o link da issue, por exemplo.
 
-Vamos juntar uma galerinha de, pelo menos, 5 pessoas por grupo e tacar pau, assim oh:
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="245px" alt="Gato digitando loucamente" title="Gato digitando loucamente">
-</p>
-
-Os grupos devem se organizar **entre eles** para combinar horários de estudos, conteúdo, nome do grupo, etc.
-
-Os membros devem nomear seu grupo e abrirem uma issue com o nome que escolheram para postar lá como estão fazendo as coisas, tirarem dúvidas, conversarem entre sí, etc.
-
-Isso vai ajudar para acompanharmos o andamento dos estudos e para que futuros grupos se espelhem no que já está dando certo.
+Os grupos devem se organizar **entre eles** para combinar horários de estudos, conteúdo, formato de estudos, etc.
 
 *Caso algum grupo planeje algo bem legal, os outros podem copiar sua forma de se organizar. ;)*
 
@@ -68,7 +58,7 @@ Isso vai ajudar para acompanharmos o andamento dos estudos e para que futuros gr
 
 Alguns materiais de estudo podem ser encontrados [aqui](./material-de-apoio.md).
 
-Dependendo do projeto que quiserem criar podemos juntar outros grupos para fazer algo grande. 
+Dependendo do projeto que quiserem criar podemos juntar outros grupos para fazer algo maior. 
 
 *Ex.:* Juntar a galera de Front para montar o Client Side, galera de Back para fazer as API's, galera de Mobile para criar App's consumindo essas API's.
 
@@ -76,15 +66,13 @@ Dependendo do projeto que quiserem criar podemos juntar outros grupos para fazer
 
 ## Você quer participar?
 
-Basta entrar ou criar um time!
+Basta entrar em ou criar um time!
 
 Para isso é só criar ou comentar uma issue.
 
-A cada grupo fechado, abrimos uma nova issue para montar outros.
-
 ## Como vai funcionar o acompanhamento de quem está aprendendo?
 
-A própria comunidade pode tirar suas dúvidas, basta pesquisar no nosso forum, o [google.com](http://google.com), ou pesquisar nas comunidades existentes.
+A própria comunidade pode tirar suas dúvidas, basta entrar em contato pelo Slack, pesquisar no [google.com](http://google.com), ou pesquisar nas comunidades já existentes.
 
 **A intenção é fazer o iniciante se movimentar, experimentar, aprender**, não seria legal prender a galera aqui nesse repositório.
 
