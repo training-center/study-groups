@@ -32,9 +32,15 @@ Temos um Time no Slack e você pode entrar por [aqui](https://ctgroups.herokuapp
 
 Caso o grupo queira fazer algo separado, não tem problema.
 
-Todos os grupos devem ter canais próprios, somente para os membros dos times, dentro desse Time no Slack.
+Os grupos podem criar foruns no Facebook, aqui no GitHub, ou em qualquer lugar que sirva para se comunicarem.
 
-Os grupos podem criar foruns no Facebook, aqui, ou em qualquer lugar que sirva para se comunicarem.
+Já existem diversos canais para compartilhamento de conteúdo e para planejar o desenvolvimento de soluções com as tecnologias a serem treinadas.
+
+Ex.:
+
+<p align="center">
+  <img src="https://s31.postimg.org/6253szyp7/Screen_Shot_2016_07_04_at_10_37_25.png" title="Alguns canais do projeto" alt="Alguns canais do projeto">
+</p>
 
 ## Como funcionam os grupos
 
