@@ -32,7 +32,7 @@ Temos um Time no Slack e você pode entrar por [aqui](https://ctgroups.herokuapp
 
 Caso o grupo queira fazer algo separado, não tem problema.
 
-Os grupos podem criar foruns no Facebook, aqui no GitHub, ou em qualquer lugar que sirva para se comunicarem.
+Os grupos podem criar fóruns no Facebook, aqui no GitHub, ou em qualquer lugar que sirva para se comunicarem.
 
 Já existem diversos canais para compartilhamento de conteúdo e para planejar o desenvolvimento de soluções com as tecnologias a serem treinadas.
 
