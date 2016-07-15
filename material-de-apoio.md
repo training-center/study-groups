@@ -25,6 +25,7 @@
 * [Git e Github para iniciantes](https://www.youtube.com/watch?v=UMhskLXJuq4)
 * [Guia com seleção de comandos para o trabalho com Git e GitHub](https://github.com/theandersonn/comandos-git)
 * [Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar](http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
+* [Git e Github para Iniciantes (Curso) ](http://willianjusten.teachable.com/courses/git-e-github-para-iniciantes)
 
 ## Dicas
 
