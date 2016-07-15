@@ -37,6 +37,7 @@
 * [Os segredos do Chrome Dev Tools](http://tableless.com.br/os-segredos-chrome-devtools/)
 * [Repositório de Artigos](https://github.com/cerebrobr/artigos)
 * [Repositório de Palestras](https://github.com/cerebrobr/apresentacoes)
+* [Palestra para desenvolvedores](http://free-time.github.io/)
 
 ## Livros
 
