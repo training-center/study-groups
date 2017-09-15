@@ -112,7 +112,7 @@ Chega [aqui](./material-de-apoio.md#gitgithub). ;D
 
 ## Caso os grupos precisem de um direcionamento
 
-Se você está em um grupo e estão perdidos de por onde começar a estudar, temos um repositório com os níveis e materiais divididos por tópicos: https://github.com/training-center/materials/
+Se você está em um grupo e estão perdidos de por onde começar a estudar, temos um repositório com os níveis e materiais divididos por tópicos: [Material de Apoio aos Grupos de Estudos](https://github.com/Diego-Brocanelli/study-groups/blob/master/material-de-apoio.md)
 
 Use e abuse desse material e atualize-o sempre que achar algo importante para colocar lá.
 
