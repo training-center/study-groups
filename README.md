@@ -88,7 +88,7 @@ A própria comunidade pode tirar suas dúvidas, basta entrar em contato pelo Sla
 
 Já temos muito conteúdo na Web para tirar dúvidas. Só precisamos mesmo de pessoas com o mesmo objetivo que nós para termos mais energia para estudar. :)
 
-Não se esqueça de passar feedback de como estão indo seus grupos para a galera da organização, essas pessoas [aqui](https://github.com/orgs/training-center/teams/study-groups).
+Não se esqueça de passar feedback de como estão indo seus grupos para a galera da organização [enviando sua opinião nesse form](https://trainingcenter2.typeform.com/to/T3zgTq).
 
 Pode ser por email, pelo Facebook, Twitter. Qualquer coisa. Só não fique sem expor sua opinião ou problema para que possamos lhe ajudar.
 
