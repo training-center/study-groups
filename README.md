@@ -31,7 +31,7 @@ O fluxo da criação e organização de um grupo de estudos é:
 - as pessoas interessadas no grupo de estudos entrarão em contato seja pela issue ou pela **thread** aberta no `#general` e o grupo irá começar a se formar
 - assim que tiver mais de 5 pessoas deve-se avisar alguma das pessoas da organização (contatos abaixo) para que criem o canal do grupo de estudos
 - o próprio grupo deve definir o que e como vai estudar (um roadmap de estudos)
-- a pessoa que ficou responsável pelo grupo deverá criar um repositório (padrão abaixo) com informações e o roadmap do grupo
+- a pessoa que ficou responsável pelo grupo deverá criar um repositório ([como criar o repositório](https://github.com/training-center/study-groups#criando-o-repositório-do-grupo)) com informações e o roadmap do grupo
 - a pessoa que ficou responsável pelo grupo deverá manter o repositório atualizado e o canal no Slack organizado
 
 Para chamar as pessoas responsáveis pela org para a criação do canal do grupo de estudos você deve digitar `@core` na thread da formação do grupo de estudos.
