@@ -4,7 +4,7 @@
 
 Será necessário utilizar o Git e o GitHub. Porém estamos aqui para te ajudar com isso caso você não saiba utilizar essas ferramentas.
 
-Se você quiser ainda pode fazer este curso gratuito do Willian Justen: [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
+Se você quiser ainda pode fazer este curso gratuito do [@willianjusten](https://github.com/willianjusten): [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
 
 ## O que é o study-groups
 
