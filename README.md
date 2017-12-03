@@ -1,131 +1,84 @@
-# Grupos de Estudos   <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/images/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
+# study-groups
 
-**Projeto voltado para pessoas que desejam aprender ou compartilhar o que sabem**
+**Projeto voltado para pessoas que desejam montar um grupo de estudos para aprender em conjunto ou compartilhar seu conhecimento.**
 
-Um local para treinar suas habilidades com outros desenvolvedores da comunidade.
+Será necessário utilizar o Git e o GitHub, porém estamos aqui para te ajudar com isso, caso você não saiba utilizar essas ferramentas.
 
-Aqui podemos fazer qualquer coisa e todos podem colaborar.
+Se você quiser ainda pode fazer este curso gratuito do Willian Justen: [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
 
-<ul>
-  <li><a href="https://ctgroups.herokuapp.com/" target="_blank" title="Entre no nosso grupo no Slack">Entre no nosso grupo no Slack</a></li>
-  <li><a href="https://medium.com/trainingcenter/como-se-comportar-no-slack-do-training-center-a3715fb7c00f" target="_blank" title="Saiba como se comportar no nosso Slack">Saiba como se comportar no nosso Slack</a></li>
-  <li><a href="https://twitter.com/trainingcentr" target="_blank" title="Siga-nos no Twitter">Siga-nos no Twitter</a></li>
-  <li><a href="https://medium.com/trainingcenter" target="_blank" title="Leia nossos artigos no Medium">Leia nossos artigos no Medium</a></li>
-  <li><a href="https://bitly.com/quero-post-no-training-center" target="_blank" title="Peça um post para as pessoas que escrevem para o Training Center">Peça um post para as pessoas que escrevem para o Training Center</a></li>
-  <li><a href="https://www.youtube.com/c/TrainingCenterChannel" target="_blank" title="Acompanhe nossos vídeos no YouTube">Acompanhe nossos vídeos no YouTube</a></li>
-</ul>
+## O que é o study-groups
 
-Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça esse curso (gratuito e sensacional) do [@willianjusten](https://github.com/willianjusten), pois nós utilizamos o GitHub para quase tudo o que fazemos e você vai imergir nesse mundo junto conosco: [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
+O study-groups é uma iniciativa do [Training Center](https://training-center.github.io/) para juntar pessoas que tem a mesma vontade de aprender algo, como aprender PHP, Ruby, Node, Java, C#, Android, iOS, UX, UI, front, back, etc. Estas pessoas irão se organizar para criarem um roadmap de estudos do que elas sentem necessidade de estudar e seguir esse roadmap. Também serão responsáveis por organizar reuiões, fazer hangouts ou qualquer outro modo para se encontrarem e compartilharem o que aprenderam.
 
-## O que é o Study Groups?
+## Como funciona
 
-Uma iniciativa para juntar membros das comunidades que precisam estudar ou praticar alguma tecnologia.
+O fluxo da criação e organização de um grupo de estudos é:
 
-Os grupos podem tanto fazer grupos de estudos para aprenderem uma tecnologia juntos, quanto criar um projeto para treinar suas habilidades.
+- uma pessoa deve abrir uma issue informando que deseja criar um grupo de estudos
+- esta pessoa deve divulgar a issue em nosso [Slack](https://github.com/training-center/slack) no canal `#general`
+- as pessoas interessadas no grupo de estudos entrarão em contato seja pela issue ou pela **thread** aberta no `#general` e o grupo irá começar a se formar
+- assim que tiver mais de 5 pessoas deve-se avisar alguma das pessoas da organização (contatos abaixo) para que criem o canal do grupo de estudos
+- o próprio grupo deve definir o que e como vai estudar (um roadmap de estudos)
+- a pessoa que ficou responsável pelo grupo deverá criar um repositório (padrão abaixo) com informações e o roadmap do grupo
+- a pessoa que ficou responsável pelo grupo deverá manter o repositório atualizado e o canal no Slack organizado
 
-Pode acontecer de aparecer alguma ideia de Freela, fiquem a vontade para trocarem contatos, se planejarem e tudo mais. - Porém a responsabilidade de pagamentos e demais encargos de um serviço freelance está fora do escopo da organização desse projeto.
+Para chamar as pessoas responsáveis pela org para a criação do canal do grupo de estudos você deve digitar `@core` na thread da formação do grupo de estudos.
 
-A intenção é movimentar a galera e juntar pessoas com o mesmo objetivo.
+Caso não tenha sido definido através de uma thread, basta chamar qualquer uma destas pessoas:
 
-## O que vamos estudar?
+`@woliveiras @fernandabernardo @adeonir @alinebastos @lhs.santoss @akfzambrana @patota @bertelledani @paulodiniz @jamilelima @leandro.bighetti @marcelabomfim @lflimeira`
 
-Front End, Back End, Android, IO's, Nodejs, Python, Pentest, C, C++, Java - Sim, até Java! Qualquer coisa que de para fazer juntando uma turma e desenvolvendo alguma coisa remotamente.
+## O que é preciso para nascer um grupo de estudos
 
-Se tiver uma galera para estudar presencialmente em algum espaço em sua cidade, sem problemas.
+Tudo o que é necessário é uma pessoa (ou mais pessoas) que possa ficar responsável por direcionar o grupo e pelo menos 5 pessoas para estudarem juntas.
 
-A ideia aqui é juntar esse povo e os grupos decidirem o que é melhor para eles.
-
-Cada grupo pode se organizar como achar melhor.
-
-## Como os grupos podem se comunicar
-
-Temos um Time no Slack e você pode entrar nele por [aqui](https://ctgroups.herokuapp.com/).
-
-Caso o grupo queira se comunicar de outra maneira, não tem problema. Basta entrar no Slack e convocar o pessoal por lá para irem para esse outro canal de comunicação.
-
-Os grupos podem criar fóruns no Facebook, aqui no GitHub, ou em qualquer lugar que sirva para se comunicarem.
-
-Já existem diversos canais para compartilhamento de conteúdo e para planejar o desenvolvimento de soluções com as tecnologias a serem treinadas.
+Direcionar aqui **não é ensinar**. Você não precisa ser expert em uma coisa para criar um grupo de estudos sobre ela. Direcionar, em nosso contexto, é manter o grupo organizado, adicionar as pautas e atas de reuniões repositório do grupo e manter o repositório do grupo atualizado.
 
 Ex.:
 
-**Imagem de alguns grupos do nosso Slack*
+- [Grupo de estudos PHP OOP](https://github.com/training-center/Grupo-de-Estudos-PHP-POO)
+- [Clojure study group](https://github.com/training-center/clojure-study-group)
 
-<p align="center">
-  <img src="https://s31.postimg.org/6253szyp7/Screen_Shot_2016_07_04_at_10_37_25.png" title="Alguns canais do projeto" alt="Alguns canais do projeto">
-</p>
+Esta pessoa também será responsável por manter o canal do grupo em nosso Slack organizado.
+
+## Criando o repositório do grupo
+
+Para criar o repositório basta usar este [template](https://github.com/training-center/template-study-group).
 
 ## Como funcionam os estudos
 
 Os grupos devem se organizar **entre eles** para combinar horários de estudos, conteúdo a ser estudado, formato de estudos, etc. Está tudo em suas mãos!
 
-*Caso algum grupo planeje algo bem legal, os outros podem copiar sua forma de se organizar. ;)*
-
 **Dica** 
 
 **Uma boa maneira de estudar é:** Cada semana um membro do grupo de estudos junta o máximo de informações sobre um assunto e transmite para a galera.
 
-Alguns materiais de estudo podem ser encontrados [aqui](./material-de-apoio.md)([em construção], você pode ajudar).
+Alguns materiais de estudo podem ser encontrados [aqui](github/material-de-apoio.md)([em construção], você pode ajudar).
 
-Dependendo do projeto que quiserem criar podemos juntar outros grupos para trabalhar em conjunto. 
+Vocês podem criar projetos juntos e, dependendo do projeto que quiserem criar, podem juntar outros grupos para trabalhar em conjunto. 
 
 *Ex.:* Juntar a galera de Front para montar o Client Side, galera de Back para fazer as API's, galera de Mobile para criar App's consumindo essas API's.
 
-**OBS: Evite deixar seu número de telefone ou informações muito pessoais nas issues por questões de segurança.**
+## Como participar de algum grupo já existente
 
-## Você quer participar?
+Você deve entrar em nossa página no GitHub e procurar por `study-group`, todos os grupos existentes serão listados, então é só procurar as pessoas responsáveis pelos grupos (que estarão listadas no repositório do grupo).
 
-Basta entrar em ou criar um time!
+<p align="center">
+  <img src="assets/pesquisa-pelos-grupos-de-estudos.png" alt="Imagem de uma busca por grupos de estudos no GitHub">
+</p>
 
-Para isso é só criar ou comentar uma issue.
+## Uma pessoa do grupo sumiu
 
-## Como vai funcionar o acompanhamento de quem está aprendendo?
+Não fique sem estudar por isso.
 
-A própria comunidade pode tirar suas dúvidas, basta entrar em contato pelo Slack, pesquisar no [google.com](http://google.com), ou pesquisar nos foruns já existentes.
+Convide outra pessoa para participar.
 
-**A intenção aqui é fazer o pessoal se movimentar, experimentar, aprender**, não seria legal prender a galera aqui nesse projeto.
+## Já aprendi de tudo, agora quero ir para o mercado de trabalho
 
-Já temos muito conteúdo na Web para tirar dúvidas. Só precisamos mesmo de pessoas com o mesmo objetivo que nós para termos mais energia para estudar. :)
+Você pode utilizar nossos recursos para procurar seu primeiro emprego ou direcionamento de carreira:
 
-Não se esqueça de passar feedback de como estão indo seus grupos para a galera da organização [enviando sua opinião nesse form](https://trainingcenter2.typeform.com/to/T3zgTq).
-
-Pode ser por email, pelo Facebook, Twitter. Qualquer coisa. Só não fique sem expor sua opinião ou problema para que possamos lhe ajudar.
-
-Caso deseje chamar todos eles em uma issue basta usar `@training-center/study-groups`.
-
-## Os grupos tem líderes?
-
-Só depende do grupo.
-
-Vocês podem decidir ter um líder, mas não é necessário que isso aconteça. Vocês devem ser auto-gerenciáveis e só precisam combinar materiais de estudos, buscarem boas fontes, até mesmo perguntar no canal `#general`, do Slack, se alguém já está pegando algo pra estudar pra terem uma noção do que fazer, mas não é bom que *dependam* de um líder.
-
-A intenção é que vocês explorem mais! Liberte seu cientista interior!
-
-## Quero ajudar
-
-Se você quiser apoiar esse projeto com dicas para melhoria dos processos ou mesmo ajudando a galera a desenroscar alguma tarefa que estiverem travados, basta abrir uma issue.
-
-## Não manjo nada de Git/GitHub
-
-Chega [aqui](./material-de-apoio.md#gitgithub). ;D
-
-## Caso os grupos precisem de um direcionamento
-
-Se você está em um grupo e estão perdidos de por onde começar a estudar, temos um repositório com os níveis e materiais divididos por tópicos: [Material de Apoio aos Grupos de Estudos](https://github.com/training-center/study-groups/blob/master/material-de-apoio.md)
-
-Use e abuse desse material e atualize-o sempre que achar algo importante para colocar lá.
-
-**Caso algum membro suma**
-
-Não fique sem estudar por isso. Convide outro membro para lhe ajudar.
-
-**Caso o grupo esteja perdido nos estudos**
-
-A intenção é que descubram tudo por conta própria, mas, caso esteja complicado, podem chamar no canal `#general` do Slack que os membros mais experiêntes tentam auxiliar a bolar um plano de estudos.
-
-**Já aprendi de tudo e agora quero partir pro mercado de trabalho**
-
-Talvez você queira saber mais sobre mercado de trabalho com uma pessoa mais experiênte e para isso temos o projeto [Mentoria](https://github.com/training-center/mentoria).
+- [primeiro-trampo](https://github.com/training-center/primeiro-trampo)
+- [mentoria](https://github.com/training-center/mentoria)
 
 ---
 
