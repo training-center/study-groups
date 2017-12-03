@@ -97,3 +97,5 @@ Você pode utilizar nossos recursos para procurar seu primeiro emprego ou direci
 Todo conhecimento deveria ser compartilhado.
 
 Devemos aprender, praticar e ensinar. Esse é o ciclo para aprendermos sempre mais.
+
+Um agradecimento especial ao [Diego Brocanelli](https://github.com/Diego-Brocanelli) que ajudou a montar o novo fluxo do study-groups.
