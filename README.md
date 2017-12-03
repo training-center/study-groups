@@ -2,7 +2,7 @@
 
 **Projeto voltado para pessoas que desejam montar um grupo de estudos para aprender em conjunto ou compartilhar seu conhecimento.**
 
-Será necessário utilizar o Git e o GitHub, porém estamos aqui para te ajudar com isso, caso você não saiba utilizar essas ferramentas.
+Será necessário utilizar o Git e o GitHub. Porém estamos aqui para te ajudar com isso caso você não saiba utilizar essas ferramentas.
 
 Se você quiser ainda pode fazer este curso gratuito do Willian Justen: [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
 
