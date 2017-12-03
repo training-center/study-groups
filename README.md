@@ -12,6 +12,16 @@ O study-groups é uma iniciativa do [Training Center](https://training-center.gi
 
 Estas pessoas irão se organizar para criar um roadmap de estudos do que elas sentem necessidade de estudar e seguir esse roadmap. Também serão responsáveis por organizar reuiões, fazer hangouts ou qualquer outro modo para se encontrarem e compartilharem o que aprenderam.
 
+## Por que criar um grupo de estudos
+
+As pessoas se sentem mais motivadas quando estão em grupo fazendo algo em comum.
+
+Como quando você quer praticar algum esporte e sente mais motivação quando tem outras pessoas fazendo o mesmo.
+
+[Aristóteles: por que vivemos coletivamente?](http://www.tribunapr.com.br/noticias/aristoteles-por-que-vivemos-coletivamente/).
+
+Você pode criar um grupo para se motivar a estudar ou para ajudar outras pessoas que precisam.
+
 ## Como funciona
 
 O fluxo da criação e organização de um grupo de estudos é:
