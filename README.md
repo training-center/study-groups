@@ -8,7 +8,9 @@ Se você quiser ainda pode fazer este curso gratuito do [@willianjusten](https:/
 
 ## O que é o study-groups
 
-O study-groups é uma iniciativa do [Training Center](https://training-center.github.io/) para juntar pessoas que tem a mesma vontade de aprender algo, como aprender PHP, Ruby, Node, Java, C#, Android, iOS, UX, UI, front, back, etc. Estas pessoas irão se organizar para criarem um roadmap de estudos do que elas sentem necessidade de estudar e seguir esse roadmap. Também serão responsáveis por organizar reuiões, fazer hangouts ou qualquer outro modo para se encontrarem e compartilharem o que aprenderam.
+O study-groups é uma iniciativa do [Training Center](https://training-center.github.io/) para juntar pessoas que tem vontade de aprender algo em comum, como PHP, Ruby, Nodejs, Java, C#, Android, iOS, UX, UI, front, back, etc.
+
+Estas pessoas irão se organizar para criar um roadmap de estudos do que elas sentem necessidade de estudar e seguir esse roadmap. Também serão responsáveis por organizar reuiões, fazer hangouts ou qualquer outro modo para se encontrarem e compartilharem o que aprenderam.
 
 ## Como funciona
 
