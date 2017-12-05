@@ -1,16 +1,31 @@
-# study-groups
+# study-groups 📖
 
-**Projeto voltado para pessoas que desejam montar um grupo de estudos para aprender em conjunto ou compartilhar seu conhecimento.**
+Projeto voltado para pessoas que desejam **montar um grupo de estudos** para aprender em conjunto ou compartilhar seu conhecimento.
 
-Será necessário utilizar o Git e o GitHub. Porém estamos aqui para te ajudar com isso caso você não saiba utilizar essas ferramentas.
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-Se você quiser ainda pode fazer este curso gratuito do [@willianjusten](https://github.com/willianjusten): [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
+- [study-groups 📖](#study-groups-)
+	- [O que é o study-groups](#o-que-o-study-groups)
+	- [Por que criar um grupo de estudos](#por-que-criar-um-grupo-de-estudos)
+	- [Como funciona](#como-funciona)
+	- [O que é preciso para nascer um grupo de estudos](#o-que-preciso-para-nascer-um-grupo-de-estudos)
+	- [Criando o repositório do grupo](#criando-o-repositrio-do-grupo)
+	- [Como funcionam os estudos](#como-funcionam-os-estudos)
+	- [Como participar de algum grupo já existente](#como-participar-de-algum-grupo-j-existente)
+	- [Uma pessoa do grupo sumiu](#uma-pessoa-do-grupo-sumiu)
+	- [Já aprendi de tudo, agora quero ir para o mercado de trabalho](#j-aprendi-de-tudo-agora-quero-ir-para-o-mercado-de-trabalho)
+
+<!-- /TOC -->
 
 ## O que é o study-groups
 
 O study-groups é uma iniciativa do [Training Center](https://training-center.github.io/) para juntar pessoas que tem vontade de aprender algo em comum, como PHP, Ruby, Nodejs, Java, C#, Android, iOS, UX, UI, front, back, etc.
 
 Estas pessoas irão se organizar para criar um roadmap de estudos do que elas sentem necessidade de estudar e seguir esse roadmap. Também serão responsáveis por organizar reuiões, fazer hangouts ou qualquer outro modo para se encontrarem e compartilharem o que aprenderam.
+
+Será necessário utilizar o Git e o GitHub. Porém estamos aqui para te ajudar com isso caso você não saiba utilizar essas ferramentas.
+
+Se você quiser ainda pode fazer este curso gratuito do [@willianjusten](https://github.com/willianjusten): [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
 
 ## Por que criar um grupo de estudos
 
@@ -61,13 +76,13 @@ Para criar o repositório basta usar este [template](https://github.com/training
 
 Os grupos devem se organizar **entre eles** para combinar horários de estudos, conteúdo a ser estudado, formato de estudos, etc. Está tudo em suas mãos!
 
-**Dica** 
+**Dica**
 
 **Uma boa maneira de estudar é:** Cada semana um membro do grupo de estudos junta o máximo de informações sobre um assunto e transmite para a galera.
 
 Alguns materiais de estudo podem ser encontrados [aqui](github/material-de-apoio.md)([em construção], você pode ajudar).
 
-Vocês podem criar projetos juntos e, dependendo do projeto que quiserem criar, podem juntar outros grupos para trabalhar em conjunto. 
+Vocês podem criar projetos juntos e, dependendo do projeto que quiserem criar, podem juntar outros grupos para trabalhar em conjunto.
 
 *Ex.:* Juntar a galera de Front para montar o Client Side, galera de Back para fazer as API's, galera de Mobile para criar App's consumindo essas API's.
 
