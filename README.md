@@ -2,18 +2,19 @@
 
 Projeto voltado para pessoas que desejam **montar um grupo de estudos** para aprender em conjunto ou compartilhar seu conhecimento.
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
 
 - [study-groups 📖](#study-groups-)
-	- [O que é o study-groups](#o-que-o-study-groups)
+	- [O que é o study-groups](#o-que-o-é-study-groups)
+	- [Grupos Ativos](#grupos-ativos)
 	- [Por que criar um grupo de estudos](#por-que-criar-um-grupo-de-estudos)
 	- [Como funciona](#como-funciona)
-	- [O que é preciso para nascer um grupo de estudos](#o-que-preciso-para-nascer-um-grupo-de-estudos)
-	- [Criando o repositório do grupo](#criando-o-repositrio-do-grupo)
+	- [O que é preciso para nascer um grupo de estudos](#o-que-é-preciso-para-nascer-um-grupo-de-estudos)
+	- [Criando o repositório do grupo](#criando-o-repositório-do-grupo)
 	- [Como funcionam os estudos](#como-funcionam-os-estudos)
-	- [Como participar de algum grupo já existente](#como-participar-de-algum-grupo-j-existente)
+	- [Como participar de algum grupo já existente](#como-participar-de-algum-grupo-já-existente)
 	- [Uma pessoa do grupo sumiu](#uma-pessoa-do-grupo-sumiu)
-	- [Já aprendi de tudo, agora quero ir para o mercado de trabalho](#j-aprendi-de-tudo-agora-quero-ir-para-o-mercado-de-trabalho)
+	- [Já aprendi de tudo, agora quero ir para o mercado de trabalho](#já-aprendi-de-tudo-agora-quero-ir-para-o-mercado-de-trabalho)
 
 <!-- /TOC -->
 
@@ -26,6 +27,13 @@ Estas pessoas irão se organizar para criar um roadmap de estudos do que elas se
 Será necessário utilizar o Git e o GitHub. Porém estamos aqui para te ajudar com isso caso você não saiba utilizar essas ferramentas.
 
 Se você quiser ainda pode fazer este curso gratuito do [@willianjusten](https://github.com/willianjusten): [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
+
+## Grupos Ativos
+
+| Grupo | Organizador |
+| ----- | ----- |
+| [PHP/OOP](https://github.com/training-center/php-study-group) | [Diego Brocanelli](https://github.com/Diego-Brocanelli) |
+| [Clojure](https://github.com/training-center/clojure-study-group) | [William Oliveira](https://github.com/woliveiras) |
 
 ## Por que criar um grupo de estudos
 
