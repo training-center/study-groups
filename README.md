@@ -7,6 +7,7 @@ Projeto voltado para pessoas que desejam **montar um grupo de estudos** para apr
 - [study-groups 📖](#study-groups-)
 	- [O que é o study-groups](#o-que-o-é-study-groups)
 	- [Grupos Ativos](#grupos-ativos)
+	    - [Acessar lista](/grupos/GRUPOS.md)
 	- [Por que criar um grupo de estudos](#por-que-criar-um-grupo-de-estudos)
 	- [Como funciona](#como-funciona)
 	- [O que é preciso para nascer um grupo de estudos](#o-que-é-preciso-para-nascer-um-grupo-de-estudos)
