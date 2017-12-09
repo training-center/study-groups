@@ -30,11 +30,7 @@ Se você quiser ainda pode fazer este curso gratuito do [@willianjusten](https:/
 
 ## Grupos Ativos
 
-| Grupo | Organizador |
-| ----- | ----- |
-| [PHP/OOP](https://github.com/training-center/php-study-group) | [Diego Brocanelli](https://github.com/Diego-Brocanelli) |
-| [Clojure](https://github.com/training-center/clojure-study-group) | [William Oliveira](https://github.com/woliveiras) |
-| [Frontend](https://github.com/training-center/frontend-study-group) | [Leonan Machado](https://github.com/leonantvrs)
+Acesse  a [lista de grupos de estudos](/grupos/GRUPOS.md) do Training Center e começe agora a decolar sua carreira :)
 
 ## Por que criar um grupo de estudos
 
