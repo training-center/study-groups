@@ -1,6 +1,6 @@
 # Lista dos grupos de estudos do Training Center
 
-Repositório dos grupo de estudos do Training Center.
+Repositório dos grupos de estudos ativos do Training Center.
 
 | Grupo | Organizador |
 | ----- | ----- |
