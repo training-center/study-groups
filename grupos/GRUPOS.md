@@ -3,7 +3,7 @@
 Repositório dos grupos de estudos ativos do Training Center.
 
 #### Atenção!!!
-Após criação do repositório do grupo de estudos o responsável ***deve abrir um PR*** adicionando o nome do grupo e seu nome como responsável.
+Após criação do repositório do grupo de estudos o responsável ***deve abrir um PR*** adicionando o nome do grupo e seu nome como responsável. A tabela abaixo segue em ordem alfabética pela coluna do nome do grupo de estudos.
 
 | Grupo | Organizador |
 | ----- | ----- |
