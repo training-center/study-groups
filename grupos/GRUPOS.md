@@ -2,6 +2,9 @@
 
 Repositório dos grupos de estudos ativos do Training Center.
 
+#### Atenção!!!
+Após criação do repositório do grupo de estudos o responsável ***deve abrir um PR*** adicionando o nome do grupo e seu nome como responsável.
+
 | Grupo | Organizador |
 | ----- | ----- |
 | [Clojure](https://github.com/training-center/clojure-study-group) | [William Oliveira](https://github.com/woliveiras) | 
