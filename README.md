@@ -7,6 +7,7 @@ Projeto voltado para pessoas que desejam **montar um grupo de estudos** para apr
 - [study-groups 📖](#study-groups-)
 	- [O que é o study-groups](#o-que-o-é-study-groups)
 	- [Grupos Ativos](#grupos-ativos)
+	    - [Acessar lista](/grupos/GRUPOS.md)
 	- [Por que criar um grupo de estudos](#por-que-criar-um-grupo-de-estudos)
 	- [Como funciona](#como-funciona)
 	- [O que é preciso para nascer um grupo de estudos](#o-que-é-preciso-para-nascer-um-grupo-de-estudos)
@@ -30,11 +31,10 @@ Se você quiser ainda pode fazer este curso gratuito do [@willianjusten](https:/
 
 ## Grupos Ativos
 
-| Grupo | Organizador |
-| ----- | ----- |
-| [PHP/OOP](https://github.com/training-center/php-study-group) | [Diego Brocanelli](https://github.com/Diego-Brocanelli) |
-| [Clojure](https://github.com/training-center/clojure-study-group) | [William Oliveira](https://github.com/woliveiras) |
-| [Frontend](https://github.com/training-center/frontend-study-group) | [Leonan Machado](https://github.com/leonantvrs)
+Acesse  a [lista de grupos de estudos](/grupos/GRUPOS.md) do Training Center e começe agora a decolar sua carreira :)
+
+#### Atenção!!!
+Após criação do repositório do grupo de estudos o responsável ***deve abrir um PR*** adicionando o nome do grupo e seu nome como responsável.
 
 ## Por que criar um grupo de estudos
 
