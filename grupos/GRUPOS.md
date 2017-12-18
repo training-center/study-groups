@@ -11,3 +11,4 @@ Após criação do repositório do grupo de estudos o responsável ***deve abrir
 | [Elixir](https://github.com/training-center/elixir-study-group) | [Leandro Bighetti](https://github.com/lbighetti) | 
 | [Frontend](https://github.com/training-center/frontend-study-group) | [Leonan Machado](https://github.com/leonantvrs) | 
 | [PHP/OOP](https://github.com/training-center/php-study-group) | [Diego Brocanelli](https://github.com/Diego-Brocanelli) | 
+| [Ruby](https://github.com/training-center/ruby-study-group) | [Giovanni Naufal](https://github.com/gionaufal) |
