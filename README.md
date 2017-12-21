@@ -34,7 +34,8 @@ Se você quiser ainda pode fazer este curso gratuito do [@willianjusten](https:/
 Acesse  a [lista de grupos de estudos](/grupos/GRUPOS.md) do Training Center e começe agora a decolar sua carreira :)
 
 #### Atenção!!!
-Após criação do repositório do grupo de estudos o responsável ***deve abrir um PR*** adicionando o nome do grupo e seu nome como responsável.
+
+Após criação do repositório do grupo de estudos a pessoa responsável ***deve abrir um PR*** adicionando o grupo e seu nome como responsável na lista.
 
 ## Por que criar um grupo de estudos
 
