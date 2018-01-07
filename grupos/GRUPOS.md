@@ -12,5 +12,7 @@ Após criação do repositório do grupo de estudos o responsável ***deve abrir
 | [Frontend](https://github.com/training-center/frontend-study-group) | [Leonan Machado](https://github.com/leonantvrs) | 
 | [JavaScript](https://github.com/training-center/javascript-study-group) | [Alexsandro Silva Alves](https://github.com/AlexsandroSA) |
 | [PHP/OOP](https://github.com/training-center/php-study-group) | [Diego Brocanelli](https://github.com/Diego-Brocanelli) | 
+| [Python](https://github.com/training-center/python-study-group) | [Ciro Valente](https://github.com/cvalentefilho) | 
+| [React](https://github.com/training-center/react-study-group) | [Aline Bastos](https://github.com/alinebastos) |
 | [Ruby](https://github.com/training-center/ruby-study-group) | [Giovanni Naufal](https://github.com/gionaufal) |
 
