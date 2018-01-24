@@ -9,7 +9,7 @@ Após criação do repositório do grupo de estudos o responsável ***deve abrir
 | ----- | ----- |
 | [Blockchain](https://github.com/training-center/blockchain-study-group) | [Camila Vilarinho](https://github.com/camilaavilarinho) | 
 | [Clojure](https://github.com/training-center/clojure-study-group) | [William Oliveira](https://github.com/woliveiras) | 
-| [Elixir](https://github.com/training-center/elixir-study-group) | [Leandro Bighetti](https://github.com/lbighetti) | 
+| [Elixir](https://github.com/training-center/elixir-study-group) | [Raphael Pacheco](https://github.com/pacheco7) | 
 | [Frontend](https://github.com/training-center/frontend-study-group) | [Leonan Machado](https://github.com/leonantvrs) | 
 | [Java](https://github.com/training-center/java-study-group) | [Otávio Prado](https://github.com/otavioprado) |
 | [JavaScript](https://github.com/training-center/javascript-study-group) | [Alexsandro Silva Alves](https://github.com/AlexsandroSA) |
