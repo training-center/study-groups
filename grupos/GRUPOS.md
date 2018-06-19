@@ -18,4 +18,5 @@ Após criação do repositório do grupo de estudos o responsável ***deve abrir
 | [Python](https://github.com/training-center/python-study-group) | [Ciro Valente](https://github.com/cvalentefilho) | 
 | [React](https://github.com/training-center/react-study-group) | [Richard Manzoli](https://github.com/manzolirch) |
 | [Ruby](https://github.com/training-center/ruby-study-group) | [Giovanni Naufal](https://github.com/gionaufal) |
+| [SAP](https://github.com/training-center/sap-study-group) | [Raphael Pacheco](https://github.com/pacheco7) |
 
