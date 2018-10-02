@@ -15,7 +15,7 @@ Após criação do repositório do grupo de estudos o responsável ***deve abrir
 | [GraphQL](https://github.com/training-center/graphql-study-group) | [Leonardo Turbiani](https://github.com/Turbiani) | 
 | [Java](https://github.com/training-center/java-study-group) | [Otávio Prado](https://github.com/otavioprado) |
 | [JavaScript](https://github.com/training-center/javascript-study-group) | [Alexsandro Silva Alves](https://github.com/AlexsandroSA) |
-| [Kotlin](https://github.com/training-center/javascript-study-group) | [Álisson Morais](https://github.com/alissonfpmorais) |
+| [Kotlin](https://github.com/training-center/kotlin-study-group) | [Álisson Morais](https://github.com/alissonfpmorais) |
 | [PHP/OOP](https://github.com/training-center/php-study-group) | [Diego Brocanelli](https://github.com/Diego-Brocanelli) | 
 | [Python](https://github.com/training-center/python-study-group) | [Ciro Valente](https://github.com/cvalentefilho) | 
 | [React](https://github.com/training-center/react-study-group) | [Richard Manzoli](https://github.com/manzolirch) |
